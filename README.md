@@ -1,4 +1,4 @@
-#To-Do List Application
+# To-Do List Application
 
 ## Introduction
 A simple **To-Do List** application developed using Python. It provides functionalities to **add, remove, and delete tasks**. The application uses **Tkinter for GUI** and **SQLite for database storage**.
@@ -32,13 +32,15 @@ The application uses an **SQLite database** with the following table structure:
 
 ## Application Layout
 The user interface includes:  
-![layout](C:\Users\Lenovo\Desktop\727822TUCS032_python project_TO DO LIST APPLICATION\layout)
-- **Add Task** – Input field to add new tasks.  
-![add](C:\Users\Lenovo\Desktop\727822TUCS032_python project_TO DO LIST APPLICATION\add)
+![layout](https://github.com/user-attachments/assets/d02907f4-43d0-4629-b29b-1d2b1c7ac23b)
+
+- **Add Task** – Input field to add new tasks.
+- ![add](https://github.com/user-attachments/assets/069d5f9a-1b45-4d52-be30-8f707889aa65)
 - **Remove Task** – Option to remove a specific task.  
-![remove one](C:\Users\Lenovo\Desktop\727822TUCS032_python project_TO DO LIST APPLICATION\remove one)
+![remove one](https://github.com/user-attachments/assets/0523078d-df65-4f13-9857-171648bf4488)
 - **Delete All** – Clears all tasks from the list.
-![remove all](C:\Users\Lenovo\Desktop\727822TUCS032_python project_TO DO LIST APPLICATION\remove all)
+![remove all](https://github.com/user-attachments/assets/eab4e974-b539-42a6-90cb-4bf6bf722dc7)
+
 
 
 
